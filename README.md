@@ -1,3 +1,7 @@
+# DEPRECATED
+The origin is wonderful.  
+This fork is garbage.
+
 # AdminScript
 
 fork from [alpaca-tc/admin_script](https://github.com/alpaca-tc/admin_script)
